@@ -32,7 +32,7 @@ Aspiring **Software Development Engineer in Test (SDET)** with a focus on creati
 ---
 
 ## 📫 **How to reach me**:
-- [LinkedIn](#)
-- [Email](mailto:your-email@example.com)
+- [linkedin.com/in/goutammalviya](#)
+- [gmgurjar1221@gmail.com](mailto:your-email@example.com)
 
 
