@@ -13,7 +13,7 @@ Aspiring **Software Development Engineer in Test (SDET)** with a focus on creati
 
 ## 🚀 **Projects**:
 
-### 1. **NaapTol Shoping E-commerce Website Automation** (https://github.com/GoutamMalviya1221/NaapTol_CW_POM.git)
+### 1. **NaapTol Shoping E-commerce Website Automation** ([[Link to Repo](https://github.com/GoutamMalviya1221/NaapTol_CW_POM.git)](#))
 - Automated functional testing of an e-commerce website using **Selenium** and **TestNG**.
 - Implemented the **Page Object Model (POM)** framework for maintainable and scalable test cases.
 - Included test scenarios for login, product search, checkout, and order confirmation.
