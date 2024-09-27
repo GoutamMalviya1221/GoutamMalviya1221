@@ -7,7 +7,7 @@
 ## Projects
 1. **E-commerce Website Automation**  
    - Automating Naaptol Online Shopping Website using Selenium, Page Object Model, and Cucumber with TestNG.  
-   - [Link to Repository]
+   - https://github.com/GoutamMalviya1221/NaapTol_CW_POM.git
 
 2. **[Another Project Name]**  
    - Brief project description.  
