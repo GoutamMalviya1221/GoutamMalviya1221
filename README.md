@@ -19,12 +19,7 @@ Aspiring **Software Development Engineer in Test (SDET)** with a focus on creati
 - Included test scenarios for login, product search, checkout, and order confirmation.
 - Integrated the test suite with **Jenkins** for continuous integration.
 
-### 2. **API Testing for RESTful Web Services** ([Link to Repo](#))
-- Created automated test scripts for RESTful APIs using **Postman** and **REST Assured**.
-- Verified API responses for status codes, data accuracy, and error handling.
-- Automated the testing of GET, POST, PUT, and DELETE requests.
-
-### 3. **Tutorialsninja - Contact Us Form Automation** ([Link to Repo]([#](https://github.com/GoutamMalviya1221/TutorialsNinja---Contact-Us.git)))
+### 2. **Tutorialsninja - Contact Us Form Automation** [https://github.com/GoutamMalviya1221/TutorialsNinja---Contact-Us.git]
 - Automated the "Contact Us" form using **Cypress** and **JavaScript**.
 - Validated form fields and submission, checking for error handling and success messages.
 - Combined manual and automation testing to ensure UI and functional accuracy.
