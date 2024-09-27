@@ -9,6 +9,4 @@
    - Automating Naaptol Online Shopping Website using Selenium, Page Object Model, and Cucumber with TestNG.  
    - https://github.com/GoutamMalviya1221/NaapTol_CW_POM.git
 
-2. **[Another Project Name]**  
-   - Brief project description.  
-   - [Link to Repository]
+
