@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello, I'm Goutam MAlviya 👋
+- 🌱 Software Development Engineer in Test (SDET) passionate about test automation.
+- 🚀 Expertise in Selenium, Cucumber, TestNG, Page Object Model.
+- 🔧 Tools: Java, Selenium WebDriver, TestNG, Cucumber, Git, Jenkins.
+- 💼 Current Project: Automating Naaptol Online Shopping Website.
 
-<!--
-**GoutamMalviya1221/GoutamMalviya1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
+1. **E-commerce Website Automation**  
+   - Automating Naaptol Online Shopping Website using Selenium, Page Object Model, and Cucumber with TestNG.  
+   - [Link to Repository]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+2. **[Another Project Name]**  
+   - Brief project description.  
+   - [Link to Repository]
