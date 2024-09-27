@@ -19,7 +19,7 @@ Aspiring **Software Development Engineer in Test (SDET)** with a focus on creati
 - Included test scenarios for login, product search, checkout, and order confirmation.
 - Integrated the test suite with **Jenkins** for continuous integration.
 
-### 2. **Tutorialsninja - Contact Us Form Automation** [https://github.com/GoutamMalviya1221/TutorialsNinja---Contact-Us.git]
+### 2. **Tutorialsninja - Contact Us Form Automation** ([[Link to Repo](https://github.com/GoutamMalviya1221/TutorialsNinja---Contact-Us.git)](#))
 - Automated the "Contact Us" form using **Cypress** and **JavaScript**.
 - Validated form fields and submission, checking for error handling and success messages.
 - Combined manual and automation testing to ensure UI and functional accuracy.
