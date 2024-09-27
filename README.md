@@ -1,4 +1,4 @@
-# Hello, I'm Goutam MAlviya 👋
+# Hello, I'm Goutam Malviya 👋
 - 🌱 Software Development Engineer in Test (SDET) passionate about test automation.
 - 🚀 Expertise in Selenium, Cucumber, TestNG, Page Object Model.
 - 🔧 Tools: Java, Selenium WebDriver, TestNG, Cucumber, Git, Jenkins.
