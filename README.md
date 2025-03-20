@@ -3,7 +3,7 @@ Aspiring **Software Development Engineer in Test (SDET)** with a focus on creati
 
 ## 🔧 **Skills**:
 - **Languages**: Java, JavaScript, Python (basic)
-- **Automation Tools**: Selenium WebDriver, Cypress, TestNG
+- **Automation Tools**: Selenium WebDriver, Cypress, Postman
 - **Frameworks**: Cucumber (BDD), Page Object Model (POM)
 - **Testing**: Manual Testing, API Testing (Postman, REST Assured)
 - **CI/CD Tools**: Jenkins, Git, Maven
